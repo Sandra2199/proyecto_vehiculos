@@ -70,5 +70,5 @@ Algunos de los gráficos incluidos:
 ## Autora
 
 Sandra Quiñones
-Analista de Datos en formación
+- Analista de Datos en formación
 
