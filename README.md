@@ -1,7 +1,9 @@
 # Panel de Análisis de Anuncios de Venta de Vehículos
+**Autora:** Sandra Quiñones
+**Proyecto del Bootcamp de Analisis de Datos**
 
 Este proyecto presenta un **panel interactivo de análisis de datos** sobre anuncios de venta de vehículos, diseñado para explorar tendencias, precios y características de los autos en el mercado.  
-Fue desarrollado con **Python, Pandas, plotly-express y Streamlit**, con el objetivo de practicar y demostrar habilidades en **análisis de datos y visualización interactiva**.
+Fue desarrollado con **Python, Pandas, Plotly express y Streamlit**, con el objetivo de practicar y demostrar habilidades en **análisis de datos y visualización interactiva**.
 
 ---
 
@@ -16,59 +18,41 @@ El propósito principal es analizar los datos de anuncios de vehículos para ide
 
 ## Tecnologías Utilizadas
 
-- **Python**   
-- **Pandas** – Limpieza y manipulación de datos  
-- **Plotly-express** – Visualización de gráficos  
-- **Streamlit** – Creación del panel interactivo  
-- **GitHub** – Control de versiones y presentación del proyecto  
+- Python (pandas, numpy)
+
+- Plotly Express
+
+- Streamlit
+
+- Git y GitHub
+
+- Render (para despliegue en la nube) 
 
 ---
 
-## Estructura del Proyecto
-- proyecto_vehiculos/
-    - vehicles_us/ # Archivos de datos originales
-    - notebooks/ # Análisis exploratorio y gráficos en Jupyter
-        - EDA.ipynb
-    - app.py # Código del panel interactivo
-    - README.md # Descripción del proyecto
-    - requirements.txt # Librerías necesarias
+## Contenido del repositorio
 
-## Cómo Ejecutar el Proyecto Localmente
+- app.py → aplicación web interactiva
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/Sandra2199/proyecto_vehiculos.git
+- notebooks/EDA.ipynb → análisis exploratorio de datos (EDA)
 
-2. Entra al directorio del proyecto:
-    cd proyecto_vehiculos
+- requirements.txt → dependencias necesarias
 
-3. Instala las dependencias:
-    pip install -r requirements.txt
+- vehicles_us.csv → conjunto de datos usado
 
-4. Ejecuta la aplicación en Streamlit:
-    streamlit run streamlit_app.py
+---
 
-## Visualización del Proyecto
+## Aplicación web
 
-El proyecto está disponible en GitHub:
-- Panel de análisis de anuncios de venta de vehículos
+Accede al panel interactivo aquí: [https://proyecto-vehiculos.onrender.com](https://proyecto-vehiculos.onrender.com)
 
-### Cómo visualizar el panel interactivo
-Puedes acceder al panel en línea desde el siguiente enlace:  
-[Ver panel interactivo en Streamlit](https://sandra2199-proyecto-vehiculos-app-eaxxpt.streamlit.app/)
 
-## Ejemplo de Visualización
+## Resultados destacados
 
-Algunos de los gráficos incluidos:
+- Relación entre kilometraje y precio de vehículos.
 
 - Distribución del kilometraje por año de fabricación.
 
-- Relación entre precio y kilometraje.
+- Visualización dinámica de precios y filtros interactivos.
 
-- Distribución de precios.
-
-## Autora
-
-Sandra Quiñones
-- Analista de Datos en formación
 
