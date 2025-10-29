@@ -1,4 +1,4 @@
-# Panel de Análisis de Anuncios de Venta de Vehículos
+# Panel interactivo para el análisis de anuncios de venta de vehículos
 **Autora:** Sandra Quiñones
 
 **Proyecto del Bootcamp de Analisis de Datos**
