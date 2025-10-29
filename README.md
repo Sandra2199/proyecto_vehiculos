@@ -45,7 +45,7 @@ El propósito principal es analizar los datos de anuncios de vehículos para ide
 
 ## Aplicación web
 
-Accede al panel interactivo aquí: [https://proyecto-vehiculos.onrender.com](https://proyecto-vehiculos.onrender.com)
+Accede al panel interactivo aquí: [https://proyecto-vehiculos-u4im.onrender.com/](https://proyecto-vehiculos-u4im.onrender.com/)
 
 
 ## Resultados destacados
