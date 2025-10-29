@@ -26,9 +26,9 @@ El propósito principal es analizar los datos de anuncios de vehículos para ide
 
 ## Estructura del Proyecto
 - proyecto_vehiculos/
-    - data/ # Archivos de datos originales o procesados
+    - vehicles_us/ # Archivos de datos originales
     - notebooks/ # Análisis exploratorio y gráficos en Jupyter
-        - analisis_vehiculos.ipynb
+        - EDA.ipynb
     - app.py # Código del panel interactivo
     - README.md # Descripción del proyecto
     - requirements.txt # Librerías necesarias
