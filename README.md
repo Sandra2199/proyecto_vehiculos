@@ -1,5 +1,6 @@
 # Panel de Análisis de Anuncios de Venta de Vehículos
 **Autora:** Sandra Quiñones
+
 **Proyecto del Bootcamp de Analisis de Datos**
 
 Este proyecto presenta un **panel interactivo de análisis de datos** sobre anuncios de venta de vehículos, diseñado para explorar tendencias, precios y características de los autos en el mercado.  
